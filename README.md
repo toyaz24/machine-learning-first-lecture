@@ -1,2 +1,2 @@
 # machine-learning-first-lecture
-machine learning python
+machine learning python 
